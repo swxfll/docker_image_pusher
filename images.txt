@@ -1,4 +1,4 @@
-filebrowser/filebrowser
+qingwave/mycni:v0.1
 
 #nginx 
 
