@@ -1,4 +1,4 @@
-qingwave/mycni:v0.1
+sflow/sflowtrend:7.4.2
 
 #nginx 
 
