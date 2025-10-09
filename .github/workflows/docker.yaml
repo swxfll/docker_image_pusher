@@ -20,7 +20,8 @@ jobs:
     steps:
     - name: Before freeing up disk space
       run: |
-        echo "Before freeing up disk space"
+        echo "Before freeing up disk space xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+        echo $ALIYUN_REGISTRY
         echo "=============================================================================="
         df -hT
         echo "=============================================================================="
