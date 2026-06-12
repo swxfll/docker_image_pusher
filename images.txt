@@ -1,6 +1,7 @@
 #sflow/sflowtrend:7.4.2
 
-rustscan/rustscan:latest
+#rustscan/rustscan:latest
+linuxserver/wps-office:11.1.0
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
